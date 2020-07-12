@@ -1,0 +1,11 @@
+C:\Users\Dani\Documents\Project\ClassLibraryLogs\MyApp\bin\Debug\MyApp.exe.config
+C:\Users\Dani\Documents\Project\ClassLibraryLogs\MyApp\bin\Debug\MyApp.exe
+C:\Users\Dani\Documents\Project\ClassLibraryLogs\MyApp\bin\Debug\MyApp.pdb
+C:\Users\Dani\Documents\Project\ClassLibraryLogs\MyApp\bin\Debug\ClassLibraryLogs.dll
+C:\Users\Dani\Documents\Project\ClassLibraryLogs\MyApp\bin\Debug\ClassLibraryLogs.pdb
+C:\Users\Dani\Documents\Project\ClassLibraryLogs\MyApp\obj\Debug\MyApp.csprojResolveAssemblyReference.cache
+C:\Users\Dani\Documents\Project\ClassLibraryLogs\MyApp\obj\Debug\MyApp.Properties.Resources.resources
+C:\Users\Dani\Documents\Project\ClassLibraryLogs\MyApp\obj\Debug\MyApp.csproj.GenerateResource.Cache
+C:\Users\Dani\Documents\Project\ClassLibraryLogs\MyApp\obj\Debug\MyApp.exe
+C:\Users\Dani\Documents\Project\ClassLibraryLogs\MyApp\obj\Debug\MyApp.pdb
+C:\Users\Dani\Documents\Project\ClassLibraryLogs\MyApp\obj\Debug\MyApp.FormHome.resources

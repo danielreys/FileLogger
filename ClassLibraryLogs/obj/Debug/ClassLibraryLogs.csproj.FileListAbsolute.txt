@@ -1,0 +1,5 @@
+C:\Users\Dani\Documents\Project\ClassLibraryLogs\ClassLibraryLogs\bin\Debug\ClassLibraryLogs.dll
+C:\Users\Dani\Documents\Project\ClassLibraryLogs\ClassLibraryLogs\bin\Debug\ClassLibraryLogs.pdb
+C:\Users\Dani\Documents\Project\ClassLibraryLogs\ClassLibraryLogs\obj\Debug\ClassLibraryLogs.csprojResolveAssemblyReference.cache
+C:\Users\Dani\Documents\Project\ClassLibraryLogs\ClassLibraryLogs\obj\Debug\ClassLibraryLogs.dll
+C:\Users\Dani\Documents\Project\ClassLibraryLogs\ClassLibraryLogs\obj\Debug\ClassLibraryLogs.pdb

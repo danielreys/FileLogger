@@ -29,7 +29,7 @@ Warning: The FileLogger class is declarated as static.
 
 ### Start 
 
-You can add this code line in your form method once it is inicializated.
+You can add this code line on your form method once it is inicializated.
 
 ```
  FileLogger.start();
